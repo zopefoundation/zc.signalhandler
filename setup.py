@@ -7,7 +7,7 @@ setup(
     author='Zope Corporation',
     author_email='info@zope.com',
     license="ZPL 2.1",
-    version="0",
+    version="1.2.0",
     packages=find_packages("src"),
     namespace_packages=["zc"],
     package_dir={"": "src"},
